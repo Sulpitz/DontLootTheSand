@@ -1,0 +1,10 @@
+## Interface: 11303
+## Title: DontLootTheSand
+## Notes: A tool that shows warns if a player loots Hourglass Sand from BWL
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Version: 0.0.1
+## Author: Earnil
+## SavedVariables: DontLootTheSand
+
+DontLootTheSand.xml
