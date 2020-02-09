@@ -11,6 +11,7 @@ Item and message can be changed.
 Usage:
 
 "DontLootTheSand usage:
+
     /sand                     - this help
     
     /sand message [Message]   - message that should be wispered to some one looting sand
