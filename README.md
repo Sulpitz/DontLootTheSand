@@ -12,6 +12,10 @@ Usage:
 
 "DontLootTheSand usage:
 
+    /sand on                  - turn Addon on
+
+    /sand off                 - trun Addon off
+
     /sand                     - this help
     
     /sand message [Message]   - message that should be wispered to some one looting sand
